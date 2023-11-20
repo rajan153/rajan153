@@ -32,6 +32,15 @@
 
 </br>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rajan153&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rajan153&icon=0&color=9)](https://visitcount.itsvg.in)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
