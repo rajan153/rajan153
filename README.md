@@ -24,8 +24,13 @@
 
 </br>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajan153&theme=blue-green&hide_border=false)<br/>
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan153&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rajan153/github-readme-stats)
 
+</br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
