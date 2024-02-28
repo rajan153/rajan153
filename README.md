@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Backend Development
+- 🔭 &nbsp; I’m currently learning Next.js and TypeScript
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming.
-- 💼 &nbsp; Student and front-end web developer.
+- 💼 &nbsp; Student and Full Stack developer.
 - 🌱 &nbsp; Enthusiast in Frontend Development.
 - ☕ &nbsp; I believe, a perfect cup of tea can be the ultimate solution for any stress. 
 
@@ -15,7 +15,7 @@
 - 💻 &nbsp; C++ | Python | Java   
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | TailwindCss
 - 🛢 &nbsp; MongoDb | Firebase | Appwrite
-- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git | Postman
 - 🖥 &nbsp; Canva | Photoshop | Figma
 
 <br>
