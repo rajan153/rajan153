@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Next.js and TypeScript
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming.
+- 🎓 &nbsp; Studying B.Tech, Information Technology.
 - 💼 &nbsp; Student and Full Stack developer.
 - 🌱 &nbsp; Enthusiast in Frontend Development.
 - ☕ &nbsp; I believe, a perfect cup of tea can be the ultimate solution for any stress. 
