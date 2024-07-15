@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Next.js and TypeScript
+- 🔭 &nbsp; I’m currently learning Devops.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying B.Tech, Information Technology.
 - 💼 &nbsp; Student and Full Stack developer.
@@ -12,10 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Python | Java   
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | TailwindCss
-- 🛢 &nbsp; MongoDb | Firebase | Appwrite
-- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git | Postman
+- 💻 &nbsp; C | C++ | JavaScript | TypeScript   
+- 🌐 &nbsp; HTML | CSS | React.js | Next.js | TailwindCss | TurboRepo | MonoRepo
+- 🛢 &nbsp; MongoDb | Firebase | Appwrite | Postgres
+- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git | Github | Postman
 - 🖥 &nbsp; Canva | Photoshop | Figma
 
 <br>
