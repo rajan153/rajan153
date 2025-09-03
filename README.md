@@ -3,19 +3,19 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Devops.
+- 🔭 &nbsp; I’m currently learning Web 3.0.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying B.Tech, Information Technology.
+- 🎓 &nbsp; Pursuing M.Tech in Computer Science & Information Technology.
 - 💼 &nbsp; Student and Full Stack developer.
 - 🌱 &nbsp; Enthusiast in Frontend Development.
 - ☕ &nbsp; I believe, a perfect cup of tea can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | C++ | JavaScript | TypeScript   
-- 🌐 &nbsp; HTML | CSS | React.js | Next.js | TailwindCss | TurboRepo | MonoRepo
-- 🛢 &nbsp; MongoDb | Firebase | Appwrite | Postgres
-- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git | Github | Postman
+- 💻 &nbsp; JavaScript | TypeScript | Python   
+- 🌐 &nbsp; React.js | Next.js | TailwindCss | TurboRepo | MonoRepo | Redux | Zustand | GraphQL | Prisma | Hono
+- 🛢 &nbsp; MongoDb | Firebase | Appwrite | Postgres | SQL/MYSQL
+- 🔧 &nbsp; Git | Github | Postman | CI/CD | Jest | Vitest | WebSockets & WebRTC | Docker | Kubernetes | Prometheus & Grafana
 - 🖥 &nbsp; Canva | Photoshop | Figma
 
 <br>
